@@ -1,4 +1,4 @@
-# 🐉 Dragons - A Snake Game Parallel.
+# 🐉 Dragons - A Snake Game Parallel
 
 A game based off Snake with features similar to .io games such as "Slither.io", such as boosting.
 Rise to the top of the leaderboard today!
